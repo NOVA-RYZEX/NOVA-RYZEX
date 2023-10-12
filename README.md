@@ -21,17 +21,7 @@ Nova Ryzex is a diverse group of individuals with a shared passion for computer 
 4. **Software Development:** We have a strong track record of developing scalable and user-friendly software applications for various platforms. Our attention to detail and commitment to delivering high-quality code sets us apart.
 
 ## Projects and Achievements
-
-Nova Ryzex has left an indelible mark on the computer science landscape with a portfolio of impressive projects. Some of our notable achievements include:
-
-- Developing an AI-driven healthcare diagnostic tool that significantly improves the accuracy and speed of disease detection.
-
-- Creating a cybersecurity platform that safeguards the online presence of several high-profile organizations, protecting them from data breaches and cyberattacks.
-
-- Contributing to open-source software projects, advancing the accessibility and affordability of technology for all.
-
-- Launching a coding academy to nurture the next generation of computer science enthusiasts, ensuring a bright future for the field.
-
+`comming soon`
 ## Collaborations and Community Involvement
 
 Nova Ryzex recognizes the importance of collaboration and community involvement. We actively engage in partnerships with universities, research institutions, and industry leaders to stay at the forefront of technological advancements. Additionally, we organize workshops, seminars, and hackathons to share knowledge and mentor aspiring computer scientists.
