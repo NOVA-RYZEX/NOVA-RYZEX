@@ -1,6 +1,11 @@
 # CS-PROJECTS2023
-<h1 align="center">Hi 👋, The Nova Ryzex</h1>
+<h1 align="center">Hi 👋, Meet Nova Ryzex Team: Pioneering the Future of Computer Science</h1>
 <h3 align="center">Passionate software engineers from Kenya</h3>
+<p>
+  This dynamic team of computer science enthusiasts is on a mission to revolutionize the digital landscape. With their passion for problem-solving, relentless curiosity, and an unwavering commitment to excellence.
+  <br/>
+  Nova Ryzex is composed of a diverse group of individuals with a shared passion for computer science. Their team members come from varied backgrounds, including software development, artificial intelligence, data science, and cybersecurity. This diversity not only fuels their creativity but also enriches their problem-solving capabilities. The team comprises both experienced  and emerging talents and fosters continuous learning.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-projects2023&label=Profile%20views&color=0e75b6&style=flat" alt="cs-projects2023" /> </p>
 
