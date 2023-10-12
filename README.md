@@ -31,22 +31,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center">
        <a href="https://github.com/Gideon-Yebei"><img src="https://avatars.githubusercontent.com/u/145453820?s=96&v=4" width="100px;" alt="Gideon-Yebei"/>
          <br/><sub><b>Gideon-Yebei</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Gideon-Yebei" title="commits">commits</a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Gideon-Yebei" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
       <td align="center">
        <a href="https://github.com/jamesgichia"><img src="https://avatars.githubusercontent.com/u/135699100?v=4" width="100px;" alt="James-Gichia"/>
          <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=jamesgichia" title="commits">commits</a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=jamesgichia" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
       <td align="center">
        <a href="https://github.com/Jack-XCodes"><img src="https://avatars.githubusercontent.com/u/106697639?v=4" width="100px;" alt="Jack-XCodes"/>
          <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Jack-XCodes" title="commits">commits</a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Jack-XCodes" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
       <td align="center">
        <a href="https://github.com/Sir-JamesMuritu"><img src="https://avatars.githubusercontent.com/u/139228073?v=4" width="100px;" alt="Jack-XCodes"/>
          <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="35px"/></a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
     </tr>
   </tbody>
