@@ -1,6 +1,6 @@
 # CS-PROJECTS2023
-<h1 align="center">Hi 👋, I'm Nova Ryzex</h1>
-<h3 align="center">A passionate software engineers from Kenya</h3>
+<h1 align="center">Hi 👋, The Nova Ryzex</h1>
+<h3 align="center">Passionate software engineers from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-projects2023&label=Profile%20views&color=0e75b6&style=flat" alt="cs-projects2023" /> </p>
 
@@ -29,14 +29,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center">
-       <a href="https://github.com/jamesgichia"><img src="https://avatars.githubusercontent.com/u/135699100?v=4" width="100px;" alt="James-Gichia"/>
-         <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=jamesgichia" title="Code">💻</a>
-     </td>
-     <td align="center">
        <a href="https://github.com/Gideon-Yebei"><img src="https://avatars.githubusercontent.com/u/145453820?s=96&v=4" width="100px;" alt="Gideon-Yebei"/>
          <br/><sub><b>Gideon-Yebei</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Gideon-Yebei" title="Code">💻</a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Gideon-Yebei" title="commits">commits</a>
+     </td>
+      <td align="center">
+       <a href="https://github.com/jamesgichia"><img src="https://avatars.githubusercontent.com/u/135699100?v=4" width="100px;" alt="James-Gichia"/>
+         <br/><sub><b>James-Gichia</b></sub></a><br/>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=jamesgichia" title="commits">commits</a>
+     </td>
+      <td align="center">
+       <a href="https://github.com/Jack-XCodes"><img src="https://avatars.githubusercontent.com/u/106697639?v=4" width="100px;" alt="Jack-XCodes"/>
+         <br/><sub><b>James-Gichia</b></sub></a><br/>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Jack-XCodes" title="commits">commits</a>
      </td>
     </tr>
   </tbody>
