@@ -29,8 +29,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/Gideon-Yebei">
-        </a>
+        <a href="https://github.com/Gideon-Yebei"></a>
+      </td>
     </tr>
   </tbody>
 </table>
