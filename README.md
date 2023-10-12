@@ -28,7 +28,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-     <td align="center"><a href="https://github.com/beazl-peter"><img src="https://avatars.githubusercontent.com/u/68695557?v=4?s=100" width="100px;" alt="beazl-peter"/><br /><sub><b>beazl-peter</b></sub></a><br /><a href="https://github.com/codenameone/CodenameOne/commits?author=beazl-peter" title="Code">💻</a></td>
+     <td align="center">
+       <a href="https://github.com/Gideon-Yebei"><img src="https://avatars.githubusercontent.com/u/145453820?s=96&v=4" width="100px;" alt="Gideon-Yebei"/>
+         <br/><sub><b>Gideon-Yebei</b></sub></a><br/>
+       <a href="https://github.com/codenameone/CodenameOne/commits?author=beazl-peter" title="Code">💻</a>
+     </td>
     </tr>
   </tbody>
 </table>
