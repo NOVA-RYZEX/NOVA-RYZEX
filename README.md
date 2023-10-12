@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Maringo Sports Club System](https://github.com/CS-PROJECTS2023/MSCS-MongoDB/)
+- 🔭 currently working on [Maringo Sports Club System](https://github.com/CS-PROJECTS2023/MSCS-MongoDB/)
 
 <h3 align="left">Connect:</h3>
 <p align="left">
