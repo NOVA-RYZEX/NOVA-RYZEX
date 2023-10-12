@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center">
        <a href="https://github.com/Sir-JamesMuritu"><img src="https://avatars.githubusercontent.com/u/139228073?v=4" width="100px;" alt="Jack-XCodes"/>
          <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F485387677%2Fb2057db2-d7ac-42bf-aaa7-1e83b06e6dd6&tbnid=e9qi7kVZh9cauM&vet=12ahUKEwidn5bRyO-BAxXJpCcCHW6NDA8QMygRegQIARBr..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fcommit-conventions%3Fl%3Dpython&docid=PTHYQssfdolZ5M&w=900&h=504&q=commit%20icon%20github&ved=2ahUKEwidn5bRyO-BAxXJpCcCHW6NDA8QMygRegQIARBr"/></a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg"/></a>
      </td>
     </tr>
   </tbody>
