@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, Meet **Nova Ryzex Team**</h1>
-<h3 align="center">Passionate software engineers from Kenya</h3>
-# Nova Ryzex: Pioneering the Future of Computer Science
-
+<h3 align="center">
+  Passionate software engineers from Kenya
+  # Nova Ryzex: Pioneering the Future of Computer Science
+</h3>
 ## Introduction
 
 Welcome to Nova Ryzex, a dynamic and innovative team of computer science enthusiasts on a mission to revolutionize the digital landscape. With a passion for problem-solving, relentless curiosity, and an unwavering commitment to excellence, Nova Ryzex is at the forefront of driving progress in the field of computer science.
