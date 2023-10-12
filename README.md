@@ -46,7 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center">
        <a href="https://github.com/Sir-JamesMuritu"><img src="https://avatars.githubusercontent.com/u/139228073?v=4" width="100px;" alt="Jack-XCodes"/>
          <br/><sub><b>James-Gichia</b></sub></a><br/>
-       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg"/></a>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="35px"/></a>
      </td>
     </tr>
   </tbody>
