@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Meet Nova Ryzex Team: Pioneering the Future of Computer Science</h1>
+<h1 align="center">Hi 👋, Meet **Nova Ryzex Team**</h1>
 <h3 align="center">Passionate software engineers from Kenya</h3>
 # Nova Ryzex: Pioneering the Future of Computer Science
 
