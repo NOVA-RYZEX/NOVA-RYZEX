@@ -1,3 +1,4 @@
+- [Member Name 1](https://github.com/Gideon-Yebei) - Expertise in AI and data science.
 <h1 align="center">Hi 👋, Meet **Nova Ryzex Team**</h1>
 <h3 align="center">
   Passionate software engineers from Kenya
