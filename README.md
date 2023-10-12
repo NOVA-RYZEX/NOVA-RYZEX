@@ -96,6 +96,11 @@ Thanks goes to these wonderful people <!--([emoji key](https://allcontributors.o
          <br/><sub><b>Nelson-Mabuka</b></sub></a><br/>
        <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Nelson-Mabuka" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
+       <td align="center">
+       <a href="https://github.com/smart-thinker46"><img src="https://avatars.githubusercontent.com/u/118178428?v=4" width="100px;" alt="Almalick"/>
+         <br/><sub><b>Almalick</b></sub></a><br/>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=smart-thinker46" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
+     </td>
     </tr>
   </tbody>
 </table>
