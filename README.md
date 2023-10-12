@@ -1,21 +1,5 @@
 <h1 align="center">Hi 👋, Meet Nova Ryzex Team: Pioneering the Future of Computer Science</h1>
 <h3 align="center">Passionate software engineers from Kenya</h3>
-<p>
-  This dynamic team of computer science enthusiasts is on a mission to revolutionize the digital landscape. With their passion for problem-solving, relentless curiosity, and an unwavering commitment to excellence.
-  <br/>
-  Nova Ryzex is composed of a diverse group of individuals with a shared passion for computer science. Their team members come from varied backgrounds, including software development, artificial intelligence, data science, and cybersecurity. This diversity not only fuels their creativity but also enriches their problem-solving capabilities. The team comprises both experienced  and emerging talents and fosters continuous learning.
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-projects2023&label=Profile%20views&color=0e75b6&style=flat" alt="cs-projects2023" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 currently working on [Maringo Sports Club System](https://github.com/CS-PROJECTS2023/MSCS-MongoDB/)
-
-<h3 align="left">Connect:</h3>
-<p align="left">
-</p>
-
 # Nova Ryzex: Pioneering the Future of Computer Science
 
 ## Introduction
@@ -57,6 +41,18 @@ Nova Ryzex recognizes the importance of collaboration and community involvement.
 Nova Ryzex is not just a computer science team; we're a group of passionate individuals shaping the future of technology. Our dedication to excellence, innovative thinking, and commitment to collaboration make us a force to be reckoned with in the world of computer science. As we continue to push the boundaries of what's possible in the digital realm, Nova Ryzex is set to leave an enduring legacy that will benefit us all.
 
 For more information, visit our website at [www.novaryzex.com](https://www.novaryzex.com).
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-projects2023&label=Profile%20views&color=0e75b6&style=flat" alt="cs-projects2023" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 currently working on [Maringo Sports Club System](https://github.com/CS-PROJECTS2023/MSCS-MongoDB/)
+
+<h3 align="left">Connect:</h3>
+<p align="left">
+</p>
+
+
 
 
 
