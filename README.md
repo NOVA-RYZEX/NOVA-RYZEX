@@ -40,13 +40,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
      </td>
       <td align="center">
        <a href="https://github.com/Jack-XCodes"><img src="https://avatars.githubusercontent.com/u/106697639?v=4" width="100px;" alt="Jack-XCodes"/>
-         <br/><sub><b>James-Gichia</b></sub></a><br/>
+         <br/><sub><b>Jack-XCodes</b></sub></a><br/>
        <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Jack-XCodes" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
       <td align="center">
        <a href="https://github.com/Sir-JamesMuritu"><img src="https://avatars.githubusercontent.com/u/139228073?v=4" width="100px;" alt="Jack-XCodes"/>
-         <br/><sub><b>James-Gichia</b></sub></a><br/>
+         <br/><sub><b>Sir-JamesMuritu</b></sub></a><br/>
        <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
+     </td>
+      <td align="center">
+       <a href="https://github.com/20407002036"><img src="https://avatars.githubusercontent.com/u/122340682?v=4" width="100px;" alt="Jack-XCodes"/>
+         <br/><sub><b>Solomon-Kaniaru</b></sub></a><br/>
+       <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=20407002036" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
     </tr>
   </tbody>
