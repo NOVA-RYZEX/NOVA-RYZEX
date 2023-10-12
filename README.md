@@ -30,7 +30,7 @@ Nova Ryzex recognizes the importance of collaboration and community involvement.
 
 Nova Ryzex is not just a computer science team; we're a group of passionate individuals shaping the future of technology. Our dedication to excellence, innovative thinking, and commitment to collaboration make us a force to be reckoned with in the world of computer science. As we continue to push the boundaries of what's possible in the digital realm, Nova Ryzex is set to leave an enduring legacy that will benefit us all.
 
-For more information, visit our website at [www.novaryzex.com](https://www.novaryzex.com).
+For more information, visit our website at [www.novaryzex.com]([https://www.novaryzex.com](https://cs-projects2023.github.io/)).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-projects2023&label=Profile%20views&color=0e75b6&style=flat" alt="cs-projects2023" /> </p>
 
