@@ -82,7 +82,7 @@ Thanks goes to these wonderful people <!--([emoji key](https://allcontributors.o
        <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=Sir-JamesMuritu" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
       <td align="center">
-       <a href="https://github.com/20657002036"><img src="https://avatars.githubusercontent.com/u/122365682?v=4" width="100px;" alt="Solomon-Kaniaru"/>
+       <a href="https://github.com/20407002036"><img src="https://avatars.githubusercontent.com/u/122365682?v=4" width="100px;" alt="Solomon-Kaniaru"/>
          <br/><sub><b>Solomon-Kaniaru</b></sub></a><br/>
        <a href="https://github.com/CS-PROJECTS2023/CS-PROJECTS2023/commits?author=20657002036" title="commits"><img src="https://raw.githubusercontent.com/CS-PROJECTS2023/CS-PROJECTS2023/main/commit.jpeg" width="45px"/></a>
      </td>
